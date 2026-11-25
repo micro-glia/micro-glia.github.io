@@ -1,0 +1,1930 @@
+{
+  "version": 1,
+  "source": "private-build-sync",
+  "exportedAt": "2026-08-13T05:55:18.927Z",
+  "playlists": [
+    {
+      "id": "3eWcyeWxsKsDMPMBSPK1dw",
+      "name": "vibe",
+      "emoji": "●",
+      "description": "A playlist from the listening room.",
+      "image": "assets/music/5a5662f9fd8302cdbe28.jpg",
+      "externalUrl": "https://open.spotify.com/playlist/3eWcyeWxsKsDMPMBSPK1dw",
+      "total": 239,
+      "tracks": [
+        {
+          "title": "Let You Love Me",
+          "artist": "Rita Ora",
+          "album": "Let You Love Me",
+          "time": "3:10",
+          "image": "assets/music/1d9a0cb3d2cba7a82975.jpg",
+          "externalUrl": "https://open.spotify.com/track/6xtcFXSo8H9BZN637BMVKS"
+        },
+        {
+          "title": "Raincoat - Ashworth Remix",
+          "artist": "Timeflies, shy martin, Ashworth",
+          "album": "Raincoat (Ashworth Remix)",
+          "time": "2:47",
+          "image": "assets/music/b1f95b11dfdff49580a6.jpg",
+          "externalUrl": "https://open.spotify.com/track/0Sn7DUulIMF23EW6n1l0Dx"
+        },
+        {
+          "title": "Nobody Can Hear You",
+          "artist": "ALIUS, Ariela Jacobs",
+          "album": "Nobody Can Hear You",
+          "time": "3:10",
+          "image": "assets/music/f0e2db6cfc937e081bf4.jpg",
+          "externalUrl": "https://open.spotify.com/track/45dfQtYHMebtLqLdlOXTuM"
+        },
+        {
+          "title": "Heroes (we could be) - Branchez Remix",
+          "artist": "Alesso, Tove Lo",
+          "album": "Heroes (we could be) [The Remixes]",
+          "time": "3:25",
+          "image": "assets/music/ce5871670d8d764f56ef.jpg",
+          "externalUrl": "https://open.spotify.com/track/3WmVIlqFYl0uUf7rrVLQYv"
+        },
+        {
+          "title": "Where Would We Be",
+          "artist": "ROZES, Nicky Romero",
+          "album": "Where Would We Be",
+          "time": "3:28",
+          "image": "assets/music/d3594b1872cadefa4a14.jpg",
+          "externalUrl": "https://open.spotify.com/track/2d3fNzMA3aUqeRFWHqzbHd"
+        },
+        {
+          "title": "Belong",
+          "artist": "Cash Cash, Dashboard Confessional",
+          "album": "Belong",
+          "time": "2:58",
+          "image": "assets/music/0198ba6701d21fa048e3.jpg",
+          "externalUrl": "https://open.spotify.com/track/2PSeBKFabj27ud497FxQQy"
+        },
+        {
+          "title": "Free Fall",
+          "artist": "ILLENIUM, RUNN",
+          "album": "Awake",
+          "time": "3:26",
+          "image": "assets/music/b6f52e5a6f8c71baa311.jpg",
+          "externalUrl": "https://open.spotify.com/track/4ZAerT2NicBmzZ4VkpmWEn"
+        },
+        {
+          "title": "Marijuana Breath",
+          "artist": "Adam Jensen",
+          "album": "Marijuana Breath",
+          "time": "3:39",
+          "image": "assets/music/03820877e700c0a07bc9.jpg",
+          "externalUrl": "https://open.spotify.com/track/1uTjNWaoXEEi6Jtt0gvXl6"
+        },
+        {
+          "title": "Sandcastles - ToWonder X Severo Remix",
+          "artist": "Adam Jensen, ToWonder, Severo",
+          "album": "Sandcastles (ToWonder X Severo Remix)",
+          "time": "3:34",
+          "image": "assets/music/71eaf8505ec9cce22ae3.jpg",
+          "externalUrl": "https://open.spotify.com/track/1TgDJSj2toOHuB2rybLdQb"
+        },
+        {
+          "title": "Eye to Eye (Veck Remix)",
+          "artist": "Brett Miller",
+          "album": "Eye to Eye Remixes",
+          "time": "4:24",
+          "image": "assets/music/9ef63cc33b0c694b2c0d.jpg",
+          "externalUrl": "https://open.spotify.com/track/4d89agqW8XKVT8Zdn5fwe0"
+        },
+        {
+          "title": "Seasons",
+          "artist": "Rival, CADMIUM, Harley Bird",
+          "album": "Seasons",
+          "time": "4:08",
+          "image": "assets/music/873cbf112714a59366e6.jpg",
+          "externalUrl": "https://open.spotify.com/track/3YFBT7K58eMzMSoVYGVsx1"
+        },
+        {
+          "title": "Rise",
+          "artist": "Jonas Blue, Jack & Jack",
+          "album": "Rise",
+          "time": "3:14",
+          "image": "assets/music/565872cadf512381952c.jpg",
+          "externalUrl": "https://open.spotify.com/track/3u1S1OmAUhx5DRlLrXqyp3"
+        },
+        {
+          "title": "Oceans Away",
+          "artist": "A R I Z O N A",
+          "album": "GALLERY",
+          "time": "3:14",
+          "image": "assets/music/bfe031c7a6b06fa36f41.jpg",
+          "externalUrl": "https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I"
+        },
+        {
+          "title": "Pretty Girl - Cheat Codes X CADE Remix",
+          "artist": "Maggie Lindemann, Cheat Codes, CADE",
+          "album": "Pretty Girl (Cheat Codes X CADE Remix)",
+          "time": "3:14",
+          "image": "assets/music/1731cf3db05378e05a65.jpg",
+          "externalUrl": "https://open.spotify.com/track/1NDxZ7cFAo481dtYWdrUnR"
+        },
+        {
+          "title": "Tie Me Down (with Elley Duhé)",
+          "artist": "Gryffin, Elley Duhé",
+          "album": "Tie Me Down (with Elley Duhé)",
+          "time": "3:38",
+          "image": "assets/music/1e2e70c9624af11ab028.jpg",
+          "externalUrl": "https://open.spotify.com/track/4QVS8YCpK71R4FsxSMCjhP"
+        },
+        {
+          "title": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+          "artist": "DJ Snake, Selena Gomez, Ozuna, Cardi B",
+          "album": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+          "time": "3:33",
+          "image": "assets/music/0b80fb153e4027ac44f8.jpg",
+          "externalUrl": "https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM"
+        },
+        {
+          "title": "This Feeling (feat. Kelsea Ballerini)",
+          "artist": "The Chainsmokers, Kelsea Ballerini",
+          "album": "Sick Boy...This Feeling",
+          "time": "3:19",
+          "image": "assets/music/8b400d91b58645b71d82.jpg",
+          "externalUrl": "https://open.spotify.com/track/15kQGEy89K8deJcZVFEn0N"
+        },
+        {
+          "title": "Kiss and Make Up",
+          "artist": "Dua Lipa, BLACKPINK",
+          "album": "Dua Lipa (Complete Edition)",
+          "time": "3:11",
+          "image": "assets/music/cb432f8243ed6f1e8d1a.jpg",
+          "externalUrl": "https://open.spotify.com/track/13hvHEstJ4sNbzdroPrPI3"
+        },
+        {
+          "title": "Way Back Home",
+          "artist": "SHAUN",
+          "album": "Take",
+          "time": "3:34",
+          "image": "assets/music/c59973c61553c160cb55.jpg",
+          "externalUrl": "https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL"
+        },
+        {
+          "title": "LOVE SCENARIO",
+          "artist": "iKON",
+          "album": "Return",
+          "time": "3:30",
+          "image": "assets/music/0a1669587569d0dcac0f.jpg",
+          "externalUrl": "https://open.spotify.com/track/6qAzAmPBUpGrk7XADZHR5k"
+        },
+        {
+          "title": "Waste It On Me (feat. BTS)",
+          "artist": "Steve Aoki, BTS",
+          "album": "Neon Future III",
+          "time": "3:13",
+          "image": "assets/music/9c3262b32b7bfcb7b7d4.jpg",
+          "externalUrl": "https://open.spotify.com/track/2J0X46UkpfLlWbuCXFgDLr"
+        },
+        {
+          "title": "I'm a Mess",
+          "artist": "Bebe Rexha",
+          "album": "Expectations",
+          "time": "3:16",
+          "image": "assets/music/fa51c7eae099da7ff87b.jpg",
+          "externalUrl": "https://open.spotify.com/track/04ZTP5KsCypmtCmQg5tH9R"
+        },
+        {
+          "title": "Youth - Adventure Club Remix",
+          "artist": "Foxes, Adventure Club",
+          "album": "Youth (Adventure Club Remix)",
+          "time": "3:59",
+          "image": "assets/music/4c9ba1f0ade5f815e984.jpg",
+          "externalUrl": "https://open.spotify.com/track/46F2qArLwz8WT1qJ2bNRfR"
+        },
+        {
+          "title": "Cold Water",
+          "artist": "Major Lazer, Justin Bieber, MØ",
+          "album": "Cold Water",
+          "time": "3:05",
+          "image": "assets/music/749197aebc453a916bc8.jpg",
+          "externalUrl": "https://open.spotify.com/track/7zsXy7vlHdItvUSH8EwQss"
+        },
+        {
+          "title": "POP/STARS",
+          "artist": "K/DA, Madison Beer, i-dle, Jaira Burns, League of Legends",
+          "album": "POP/STARS",
+          "time": "3:11",
+          "image": "assets/music/41e6a27933bccdf7505e.jpg",
+          "externalUrl": "https://open.spotify.com/track/5sbooPcNgIE22DwO0VNGUJ"
+        },
+        {
+          "title": "Wherever You Go",
+          "artist": "Jonas Blue, Jessie Reyez, Juan Magán",
+          "album": "Blue",
+          "time": "3:29",
+          "image": "assets/music/c2a232451585adf1e2f9.jpg",
+          "externalUrl": "https://open.spotify.com/track/14nIFzHQf1OBWf6VHVR8DF"
+        },
+        {
+          "title": "Darkside",
+          "artist": "Alan Walker, Au/Ra, Tomine Harket",
+          "album": "Darkside",
+          "time": "3:32",
+          "image": "assets/music/2abef680784c3e20ffbe.jpg",
+          "externalUrl": "https://open.spotify.com/track/1snWlbcbgQpJfknoI30DWG"
+        },
+        {
+          "title": "Out Of Touch",
+          "artist": "Marc Benjamin",
+          "album": "Out Of Touch",
+          "time": "2:39",
+          "image": "assets/music/ea15dafdf26e621e017e.jpg",
+          "externalUrl": "https://open.spotify.com/track/6zCIe8r98q0JY8G4HGiVr6"
+        },
+        {
+          "title": "Better Days",
+          "artist": "Hedley",
+          "album": "Cageless",
+          "time": "3:44",
+          "image": "assets/music/57423da45c59a60f8935.jpg",
+          "externalUrl": "https://open.spotify.com/track/5Kelvlf6aU6is8muBjaZ4S"
+        },
+        {
+          "title": "Fly",
+          "artist": "Cuebrick, Newclaess, Maliah",
+          "album": "Fly",
+          "time": "3:03",
+          "image": "assets/music/43a6906dab452b7e740a.jpg",
+          "externalUrl": "https://open.spotify.com/track/53Tr72VRXw9ovniuQTRl3d"
+        },
+        {
+          "title": "Fun",
+          "artist": "Fancy Cars",
+          "album": "Fun",
+          "time": "3:22",
+          "image": "assets/music/783d50729b6bd3e5abba.jpg",
+          "externalUrl": "https://open.spotify.com/track/08wUcJKJ4TvbPOYwfzavt3"
+        },
+        {
+          "title": "Anxious",
+          "artist": "Austin Mahone",
+          "album": "Why Don't We / Anxious",
+          "time": "2:42",
+          "image": "assets/music/25f97bae8a1bfc1669c0.jpg",
+          "externalUrl": "https://open.spotify.com/track/4ScDT88iwrl2zH5plr1H0f"
+        },
+        {
+          "title": "All You Need To Know (feat. Calle Lehmann)",
+          "artist": "Gryffin, SLANDER, Calle Lehmann",
+          "album": "All You Need To Know (feat. Calle Lehmann)",
+          "time": "3:58",
+          "image": "assets/music/4a55c511401e1e03bdaf.jpg",
+          "externalUrl": "https://open.spotify.com/track/4Gcv5SsxnQWpmOnUI19EJk"
+        },
+        {
+          "title": "Here With Me",
+          "artist": "Marshmello, CHVRCHES",
+          "album": "Here With Me",
+          "time": "2:36",
+          "image": "assets/music/7e7d86157ddac34508eb.jpg",
+          "externalUrl": "https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac"
+        },
+        {
+          "title": "i'm so tired...",
+          "artist": "LAUV, Troye Sivan",
+          "album": "i'm so tired...",
+          "time": "2:43",
+          "image": "assets/music/71f009ad882761b22a4e.jpg",
+          "externalUrl": "https://open.spotify.com/track/7COXchtUOMd6uIT6HvmRaI"
+        },
+        {
+          "title": "Miss You",
+          "artist": "Louis Tomlinson",
+          "album": "Miss You",
+          "time": "3:02",
+          "image": "assets/music/8b9efbfff0e29c0ab6b0.jpg",
+          "externalUrl": "https://open.spotify.com/track/3zxrecYFao03IrrcyFiaMU"
+        },
+        {
+          "title": "Need You Right Now",
+          "artist": "HEDEGAARD, Hayley Warner",
+          "album": "Need You Right Now",
+          "time": "3:26",
+          "image": "assets/music/be8e7fd88a13c3beede5.jpg",
+          "externalUrl": "https://open.spotify.com/track/50tyqR5Zz99YMSyQWpqLsR"
+        },
+        {
+          "title": "We Don't Care",
+          "artist": "Sigala, The Vamps",
+          "album": "Brighter Days",
+          "time": "3:27",
+          "image": "assets/music/c85b4a43967f63fe3dae.jpg",
+          "externalUrl": "https://open.spotify.com/track/6THwtgImf1ZAR2w3iknjeS"
+        },
+        {
+          "title": "Please Don't Go (Tschax Remix)",
+          "artist": "Joel Adams",
+          "album": "Please Don't Go: Remixes",
+          "time": "3:50",
+          "image": "assets/music/f9b72204fa5eb966c99b.jpg",
+          "externalUrl": "https://open.spotify.com/track/5dmELKs1VKivhATUKbuaKv"
+        },
+        {
+          "title": "100 Degrees",
+          "artist": "Rich Brian",
+          "album": "The Sailor",
+          "time": "2:46",
+          "image": "assets/music/accac2c6fca63efd1586.jpg",
+          "externalUrl": "https://open.spotify.com/track/2ZDpSQfBdgkooeXw6oj3Uz"
+        },
+        {
+          "title": "Play",
+          "artist": "K-391, Alan Walker, Tungevaag, Mangoo",
+          "album": "Play",
+          "time": "2:48",
+          "image": "assets/music/ec69c8c46990802a2fb1.jpg",
+          "externalUrl": "https://open.spotify.com/track/4jp4Z02kzzg8gK0NmDGgml"
+        },
+        {
+          "title": "High",
+          "artist": "JPB",
+          "album": "High",
+          "time": "3:12",
+          "image": "assets/music/d5bd0884e0fbb9bc0a19.jpg",
+          "externalUrl": "https://open.spotify.com/track/5ZiHgUvekvEbdRXO4pn7HQ"
+        },
+        {
+          "title": "We Are the Night",
+          "artist": "Madison Mars, Sanjana Ghosh",
+          "album": "We Are the Night",
+          "time": "3:46",
+          "image": "assets/music/17412452ff1099b36249.jpg",
+          "externalUrl": "https://open.spotify.com/track/1vpmgSYyCTsfWM2WG1eC2L"
+        },
+        {
+          "title": "Takeaway (feat. Lennon Stella)",
+          "artist": "The Chainsmokers, ILLENIUM, Lennon Stella",
+          "album": "World War Joy...Takeaway",
+          "time": "3:30",
+          "image": "assets/music/8e439f7159c1a965ebc9.jpg",
+          "externalUrl": "https://open.spotify.com/track/6wo37KVqFJhtuxPTpLCcfe"
+        },
+        {
+          "title": "Home",
+          "artist": "N3WPORT",
+          "album": "Home EP",
+          "time": "3:22",
+          "image": "assets/music/f1ecd9893002dcc4f53e.jpg",
+          "externalUrl": "https://open.spotify.com/track/0KhfMvcOacRO2yFrdjyYMK"
+        },
+        {
+          "title": "Samurai (feat. Katy Tiz)",
+          "artist": "Vanic, Katy Tiz",
+          "album": "Samurai (feat. Katy Tiz)",
+          "time": "3:22",
+          "image": "assets/music/66a244019cfee9821eb9.jpg",
+          "externalUrl": "https://open.spotify.com/track/0VOsR3sEACivA46VDuaLai"
+        },
+        {
+          "title": "I.F.L.Y.",
+          "artist": "Bazzi",
+          "album": "Soul Searching",
+          "time": "2:46",
+          "image": "assets/music/945268c02853e2a6810e.jpg",
+          "externalUrl": "https://open.spotify.com/track/4a6q8CR2hzLk2plDkSxkfD"
+        },
+        {
+          "title": "I Don't Belong In This Club",
+          "artist": "Why Don't We, Macklemore",
+          "album": "I Don't Belong In This Club",
+          "time": "3:43",
+          "image": "assets/music/ad5623ca2061446effe5.jpg",
+          "externalUrl": "https://open.spotify.com/track/45ZGEdLxCZvdMX9jWlsAAx"
+        },
+        {
+          "title": "Beautiful People (feat. Khalid)",
+          "artist": "Ed Sheeran, Khalid",
+          "album": "No.6 Collaborations Project",
+          "time": "3:18",
+          "image": "assets/music/c8fbf686a16661fa9b29.jpg",
+          "externalUrl": "https://open.spotify.com/track/70eFcWOvlMObDhURTqT4Fv"
+        },
+        {
+          "title": "It's You",
+          "artist": "Ali Gatie",
+          "album": "It's You",
+          "time": "3:33",
+          "image": "assets/music/1c68e6416ac2fc3dd9ff.jpg",
+          "externalUrl": "https://open.spotify.com/track/6moU77g9RQyMzHNuKEaQKq"
+        },
+        {
+          "title": "No Way!",
+          "artist": "Bazzi",
+          "album": "Soul Searching",
+          "time": "1:52",
+          "image": "assets/music/945268c02853e2a6810e.jpg",
+          "externalUrl": "https://open.spotify.com/track/0yYwS7CXKIPC4kWPvZQfsT"
+        },
+        {
+          "title": "Ghost In The Machine",
+          "artist": "B.o.B",
+          "album": "B.o.B Presents: The Adventures of Bobby Ray (Explicit)",
+          "time": "4:53",
+          "image": "assets/music/073ec6f732baabb81df5.jpg",
+          "externalUrl": "https://open.spotify.com/track/5iedbcsUvjpnAlChFvNsgC"
+        },
+        {
+          "title": "Mr. Brightside",
+          "artist": "The Killers",
+          "album": "Hot Fuss (France)",
+          "time": "3:43",
+          "image": "assets/music/13ae7c40eb2694b6e7a0.jpg",
+          "externalUrl": "https://open.spotify.com/track/11wqRDtNPUa3NMiTttDbU7"
+        },
+        {
+          "title": "Right Above It",
+          "artist": "Lil Wayne, Drake",
+          "album": "Westwood - The Big Dawg Is Back!!!",
+          "time": "4:32",
+          "image": "assets/music/0781aa883bd49c25b853.jpg",
+          "externalUrl": "https://open.spotify.com/track/1qv3QvxMqmtM454pHV2j2W"
+        },
+        {
+          "title": "White Walls (feat. ScHoolboy Q & Hollis)",
+          "artist": "Macklemore & Ryan Lewis, Hollis, ScHoolboy Q",
+          "album": "The Heist",
+          "time": "3:40",
+          "image": "assets/music/084cbc925c562932cdbd.jpg",
+          "externalUrl": "https://open.spotify.com/track/6I3KeXBT0E9MoMqYz8srVq"
+        },
+        {
+          "title": "Wherever You Go",
+          "artist": "Jonas Blue, Jessie Reyez, Juan Magán",
+          "album": "Blue",
+          "time": "3:29",
+          "image": "assets/music/6c2c12da8dce3a3d9d1c.jpg",
+          "externalUrl": "https://open.spotify.com/track/4H0iUwnJaY9Ev07IP6DW5j"
+        },
+        {
+          "title": "Cassette",
+          "artist": "ayokay",
+          "album": "Cassette",
+          "time": "3:23",
+          "image": "assets/music/49c23cbf9c8bc4e245a1.jpg",
+          "externalUrl": "https://open.spotify.com/track/3GweDldi2HrraUKLexWUeb"
+        },
+        {
+          "title": "Grenade",
+          "artist": "Bruno Mars",
+          "album": "Doo-Wops & Hooligans",
+          "time": "3:42",
+          "image": "assets/music/797ae4ae2e465b7ced80.jpg",
+          "externalUrl": "https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ"
+        },
+        {
+          "title": "Stuck Up",
+          "artist": "Music With Edgar",
+          "album": "Stuck Up",
+          "time": "1:51",
+          "image": "assets/music/b4540c2b908249062224.jpg",
+          "externalUrl": "https://open.spotify.com/track/582UuerUL1zx7IyudPW9Mo"
+        },
+        {
+          "title": "Thief",
+          "artist": "Ansel Elgort",
+          "album": "Thief",
+          "time": "3:41",
+          "image": "assets/music/65f91c86736fa11bbdb4.jpg",
+          "externalUrl": "https://open.spotify.com/track/3BtA1koBtnClfirgg4BpjI"
+        },
+        {
+          "title": "Watermelon Sugar",
+          "artist": "Harry Styles",
+          "album": "Watermelon Sugar",
+          "time": "2:54",
+          "image": "assets/music/6fc060dd8096b0177869.jpg",
+          "externalUrl": "https://open.spotify.com/track/1e9oZCCiX42nJl0AcqriVo"
+        },
+        {
+          "title": "gone girl",
+          "artist": "iann dior, Trippie Redd",
+          "album": "Industry Plant",
+          "time": "2:17",
+          "image": "assets/music/7c6a316ced311670dde2.jpg",
+          "externalUrl": "https://open.spotify.com/track/3iH29NcCxYgI5shlkZrUoB"
+        },
+        {
+          "title": "All I Wanna Do (feat. Hoody & 로꼬 Loco) [Korean Version]",
+          "artist": "Jay Park, Hoody, Loco",
+          "album": "Everything You Wanted",
+          "time": "3:37",
+          "image": "assets/music/6567b6465c2582274822.jpg",
+          "externalUrl": "https://open.spotify.com/track/2c37Gkpu75l3kvh1FUZrHV"
+        },
+        {
+          "title": "Redbone",
+          "artist": "Childish Gambino",
+          "album": "\"Awaken, My Love!\"",
+          "time": "5:27",
+          "image": "assets/music/b72bcac0e95e684647de.jpg",
+          "externalUrl": "https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR"
+        },
+        {
+          "title": "3005",
+          "artist": "Childish Gambino",
+          "album": "Because the Internet",
+          "time": "3:54",
+          "image": "assets/music/171bb4d68b700683f057.jpg",
+          "externalUrl": "https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t"
+        },
+        {
+          "title": "Humph!",
+          "artist": "PENTAGON",
+          "album": "SUM(ME:R)",
+          "time": "3:13",
+          "image": "assets/music/a57d183d13888a3065f0.jpg",
+          "externalUrl": "https://open.spotify.com/track/0m3W71Oliiv3gQWXi2YAmJ"
+        },
+        {
+          "title": "ROXANNE",
+          "artist": "Arizona Zervas",
+          "album": "ROXANNE",
+          "time": "2:44",
+          "image": "assets/music/954e10fce30c9450ce4f.jpg",
+          "externalUrl": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
+        },
+        {
+          "title": "Acid Dreams",
+          "artist": "MAX, Felly",
+          "album": "Acid Dreams",
+          "time": "3:04",
+          "image": "assets/music/893f2419d7463f4c8550.jpg",
+          "externalUrl": "https://open.spotify.com/track/3XEdqQtGHAM5huMrs3RaKN"
+        },
+        {
+          "title": "Dank",
+          "artist": "Jay Park",
+          "album": "V",
+          "time": "3:19",
+          "image": "assets/music/161a36aba2ec40d12559.jpg",
+          "externalUrl": "https://open.spotify.com/track/46sgzGh1EoiaGqZDBikbDe"
+        },
+        {
+          "title": "GRoCERIES",
+          "artist": "Chance the Rapper, TisaKorean, Murda Beatz",
+          "album": "GRoCERIES",
+          "time": "3:47",
+          "image": "assets/music/c7a2ddeaed673ac6cc56.jpg",
+          "externalUrl": "https://open.spotify.com/track/0yFvWTLs3iIwDbc91noXGT"
+        },
+        {
+          "title": "Talk (feat. Disclosure)",
+          "artist": "Khalid, Disclosure",
+          "album": "Free Spirit",
+          "time": "3:18",
+          "image": "assets/music/a9dca3cb9b68a19f7a92.jpg",
+          "externalUrl": "https://open.spotify.com/track/6TqXcAFInzjp0bODyvrWEq"
+        },
+        {
+          "title": "Nice To Meet Ya",
+          "artist": "Niall Horan",
+          "album": "Nice To Meet Ya",
+          "time": "2:39",
+          "image": "assets/music/ae57f9de7d82b8667e24.jpg",
+          "externalUrl": "https://open.spotify.com/track/3cphb8kdsjElYR7r5icK3H"
+        },
+        {
+          "title": "I Gotta Feeling",
+          "artist": "Black Eyed Peas",
+          "album": "THE E.N.D. (THE ENERGY NEVER DIES)",
+          "time": "4:49",
+          "image": "assets/music/5a16d5059bc19eb3bc7e.jpg",
+          "externalUrl": "https://open.spotify.com/track/4vp2J1l5RD4gMZwGFLfRAu"
+        },
+        {
+          "title": "MIDDLE CHILD",
+          "artist": "J. Cole",
+          "album": "MIDDLE CHILD",
+          "time": "3:34",
+          "image": "assets/music/0dc59ef209e728db056e.jpg",
+          "externalUrl": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
+        },
+        {
+          "title": "Hey Look Ma, I Made It",
+          "artist": "Panic! At The Disco",
+          "album": "Pray for the Wicked",
+          "time": "2:50",
+          "image": "assets/music/f25f7cc4f40272f4c04e.jpg",
+          "externalUrl": "https://open.spotify.com/track/22oEJW6r2rMb9z4IntfyEa"
+        },
+        {
+          "title": "Young, Wild & Free (feat. Bruno Mars)",
+          "artist": "Snoop Dogg, Wiz Khalifa, Bruno Mars",
+          "album": "Mac and Devin Go to High School (Music from and Inspired by the Movie)",
+          "time": "3:27",
+          "image": "assets/music/6d9d0f5c3c160fd5d154.jpg",
+          "externalUrl": "https://open.spotify.com/track/6YbhspuOar1D9WSSnfe7ds"
+        },
+        {
+          "title": "Pursuit Of Happiness (Nightmare)",
+          "artist": "Kid Cudi, MGMT, Ratatat",
+          "album": "Man On The Moon: The End Of Day",
+          "time": "4:55",
+          "image": "assets/music/1ee0ef8e9bdb8d87fa80.jpg",
+          "externalUrl": "https://open.spotify.com/track/5iSEsR6NKjlC9SrIJkyL3k"
+        },
+        {
+          "title": "imagine if",
+          "artist": "gnash",
+          "album": "we",
+          "time": "3:17",
+          "image": "assets/music/841f42e78cb8f5abfa39.jpg",
+          "externalUrl": "https://open.spotify.com/track/7nDdxPUC5LbxmspeqkOzt8"
+        },
+        {
+          "title": "Vibe",
+          "artist": "Fly By Midnight",
+          "album": "New York Nostalgia",
+          "time": "3:18",
+          "image": "assets/music/ba4034f088a59fb5fdd3.jpg",
+          "externalUrl": "https://open.spotify.com/track/3ySiHfldExzRJcOfBCiOxf"
+        },
+        {
+          "title": "Ride It",
+          "artist": "Regard",
+          "album": "Ride It",
+          "time": "2:38",
+          "image": "assets/music/de06940a77ac96de1712.jpg",
+          "externalUrl": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
+        },
+        {
+          "title": "Summer on You",
+          "artist": "PRETTYMUCH",
+          "album": "Summer on You",
+          "time": "3:26",
+          "image": "assets/music/d08c86f5a2cd94cd5c1e.jpg",
+          "externalUrl": "https://open.spotify.com/track/07ipXN6CNTw34qwSYePKpg"
+        },
+        {
+          "title": "Stack It Up (feat. A Boogie Wit da Hoodie)",
+          "artist": "Liam Payne, A Boogie Wit da Hoodie",
+          "album": "Stack It Up (feat. A Boogie Wit da Hoodie)",
+          "time": "2:46",
+          "image": "assets/music/0a714bf9ed2f751c9bd7.jpg",
+          "externalUrl": "https://open.spotify.com/track/1xU2QZ40MY4Ex2pfczZa9U"
+        },
+        {
+          "title": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
+          "artist": "Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign",
+          "album": "Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)",
+          "time": "4:03",
+          "image": "assets/music/53a864d5089e8985c783.jpg",
+          "externalUrl": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB"
+        },
+        {
+          "title": "Supernova",
+          "artist": "Ansel Elgort",
+          "album": "Supernova",
+          "time": "3:11",
+          "image": "assets/music/8973d12f2cedf104f156.jpg",
+          "externalUrl": "https://open.spotify.com/track/2ZIZXWnU52s0C75sPYiwvh"
+        },
+        {
+          "title": "The Other - Madison Mars Remix",
+          "artist": "LAUV, Madison Mars",
+          "album": "The Other (Remixes)",
+          "time": "3:27",
+          "image": "assets/music/c0c3a5b87e51ea8ec599.jpg",
+          "externalUrl": "https://open.spotify.com/track/5yKAzjFe0QB7Oqp679Ymw7"
+        },
+        {
+          "title": "Stay The Night - Featuring Hayley Williams Of Paramore",
+          "artist": "Zedd, Hayley Williams",
+          "album": "Clarity (Deluxe)",
+          "time": "3:37",
+          "image": "assets/music/dbebda297e39c3ccd968.jpg",
+          "externalUrl": "https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP"
+        },
+        {
+          "title": "Memories",
+          "artist": "Maroon 5",
+          "album": "Memories",
+          "time": "3:09",
+          "image": "assets/music/f6f6a46794f9a748aa29.jpg",
+          "externalUrl": "https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM"
+        },
+        {
+          "title": "I Don't Miss You at All",
+          "artist": "FINNEAS",
+          "album": "I Don't Miss You at All",
+          "time": "2:09",
+          "image": "assets/music/2948f38819bd6e896711.jpg",
+          "externalUrl": "https://open.spotify.com/track/5Jj7cr0vPBGlqDNyI4G8y6"
+        },
+        {
+          "title": "Midsummer Madness",
+          "artist": "88rising, Joji, Rich Brian",
+          "album": "Head In The Clouds",
+          "time": "4:41",
+          "image": "assets/music/4ef916b049fa5e7010fe.jpg",
+          "externalUrl": "https://open.spotify.com/track/6TodWdTSDfzwgYynTZSvJn"
+        },
+        {
+          "title": "Panini",
+          "artist": "Lil Nas X",
+          "album": "7",
+          "time": "1:55",
+          "image": "assets/music/e2f51ae4754f8d856f9d.jpg",
+          "externalUrl": "https://open.spotify.com/track/6fTt0CH2t0mdeB2N9XFG5r"
+        },
+        {
+          "title": "hot girl bummer",
+          "artist": "blackbear",
+          "album": "hot girl bummer",
+          "time": "3:05",
+          "image": "assets/music/86e3287c49cce6a2c6a9.jpg",
+          "externalUrl": "https://open.spotify.com/track/7aiClxsDWFRQ0Kzk5KI5ku"
+        },
+        {
+          "title": "Love Me Less (feat. Quinn XCII)",
+          "artist": "MAX, Quinn XCII",
+          "album": "Love Me Less (feat. Quinn XCII)",
+          "time": "2:58",
+          "image": "assets/music/ef026c883ebc1de25a32.jpg",
+          "externalUrl": "https://open.spotify.com/track/2tOOcDDYkh0PSjr6GwPEAJ"
+        },
+        {
+          "title": "fuck, i'm lonely",
+          "artist": "LAUV, Anne-Marie",
+          "album": "fuck, i'm lonely",
+          "time": "3:19",
+          "image": "assets/music/fcd77efbdd55b80fb738.jpg",
+          "externalUrl": "https://open.spotify.com/track/322tcqPhma7F6hfCeLisx0"
+        },
+        {
+          "title": "Wow.",
+          "artist": "Post Malone",
+          "album": "Wow.",
+          "time": "2:30",
+          "image": "assets/music/a5d17f2c4126c495ef43.jpg",
+          "externalUrl": "https://open.spotify.com/track/6MWtB6iiXyIwun0YzU6DFP"
+        },
+        {
+          "title": "Sunflower - Spider-Man: Into the Spider-Verse",
+          "artist": "Post Malone, Swae Lee",
+          "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+          "time": "2:38",
+          "image": "assets/music/545e67fed6d9ef8cd824.jpg",
+          "externalUrl": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
+        },
+        {
+          "title": "Circles",
+          "artist": "Post Malone",
+          "album": "Circles",
+          "time": "3:35",
+          "image": "assets/music/231c2baead68e72c2f1a.jpg",
+          "externalUrl": "https://open.spotify.com/track/4VginDwYTP2eaHJzO0QMjG"
+        },
+        {
+          "title": "comethru",
+          "artist": "Jeremy Zucker",
+          "album": "summer,",
+          "time": "3:02",
+          "image": "assets/music/cc76700ab248ebf1bdb5.jpg",
+          "externalUrl": "https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP"
+        },
+        {
+          "title": "Stacy",
+          "artist": "Quinn XCII",
+          "album": "Stacy",
+          "time": "2:49",
+          "image": "assets/music/ae56450a8690c4d4c89d.jpg",
+          "externalUrl": "https://open.spotify.com/track/1pyGo7knT3LE2I1FJIrwdX"
+        },
+        {
+          "title": "I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",
+          "artist": "DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne",
+          "album": "Grateful",
+          "time": "4:49",
+          "image": "assets/music/e1a753de8f3ba871318c.jpg",
+          "externalUrl": "https://open.spotify.com/track/1jYiIOC5d6soxkJP81fxq2"
+        },
+        {
+          "title": "Animal",
+          "artist": "Neon Trees",
+          "album": "Habits",
+          "time": "3:32",
+          "image": "assets/music/373c921639ce10078642.jpg",
+          "externalUrl": "https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go"
+        },
+        {
+          "title": "Starboy",
+          "artist": "The Weeknd, Daft Punk",
+          "album": "Starboy",
+          "time": "3:50",
+          "image": "assets/music/8cd8aa9cbe4597eadd30.jpg",
+          "externalUrl": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
+        },
+        {
+          "title": "Capsize",
+          "artist": "FRENSHIP, Emily Warren",
+          "album": "Truce - EP",
+          "time": "3:58",
+          "image": "assets/music/70aeedc39ad2516051e7.jpg",
+          "externalUrl": "https://open.spotify.com/track/2XMTqoHHSH0lvuXrvIEdco"
+        },
+        {
+          "title": "Sucker",
+          "artist": "Jonas Brothers",
+          "album": "Happiness Begins",
+          "time": "3:01",
+          "image": "assets/music/7ba4017330da2510d27b.jpg",
+          "externalUrl": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
+        },
+        {
+          "title": "Lonely (with Jonas Brothers)",
+          "artist": "Diplo, Jonas Brothers",
+          "album": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
+          "time": "2:20",
+          "image": "assets/music/dde34859366d6ca78998.jpg",
+          "externalUrl": "https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ"
+        },
+        {
+          "title": "Ballin Flossin",
+          "artist": "Chance the Rapper, Shawn Mendes",
+          "album": "The Big Day",
+          "time": "2:50",
+          "image": "assets/music/051dde2379d2d16d3c98.jpg",
+          "externalUrl": "https://open.spotify.com/track/4pnIUqhf1AQMFrJPd4BbrT"
+        },
+        {
+          "title": "LOST IN PARADISE",
+          "artist": "ALI, AKLO",
+          "album": "LOST IN PARADISE",
+          "time": "5:28",
+          "image": "assets/music/48a323180b9de6ad9159.jpg",
+          "externalUrl": "https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX"
+        },
+        {
+          "title": "Baila Conmigo",
+          "artist": "Arts",
+          "album": "Baila Conmigo",
+          "time": "2:44",
+          "image": "assets/music/f77a9b70f75d8abf4ec7.jpg",
+          "externalUrl": "https://open.spotify.com/track/0fmBj5e9PibzdPA8XCr0oo"
+        },
+        {
+          "title": "Man Down (feat. AlunaGeorge) - KREAM Remix",
+          "artist": "Shakka, Aluna, AlunaGeorge, KREAM",
+          "album": "Man Down (feat. AlunaGeorge) [Remixes]",
+          "time": "3:03",
+          "image": "assets/music/febb2698e6758c06e9a7.jpg",
+          "externalUrl": "https://open.spotify.com/track/2aIZ16oke2frhUCjvttBVy"
+        },
+        {
+          "title": "Classic",
+          "artist": "MKTO",
+          "album": "MKTO",
+          "time": "2:55",
+          "image": "assets/music/a0809e07ec786eea9078.jpg",
+          "externalUrl": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
+        },
+        {
+          "title": "FRESH OFF THE BOAT",
+          "artist": "Jake $ing",
+          "album": "FRESH OFF THE BOAT",
+          "time": "2:51",
+          "image": "assets/music/84dbd5ff97acbc8c4dbd.jpg",
+          "externalUrl": "https://open.spotify.com/track/582WtTD3oUaWe4NzUK0RBv"
+        },
+        {
+          "title": "Dazed & Confused",
+          "artist": "Ruel",
+          "album": "Dazed & Confused",
+          "time": "3:10",
+          "image": "assets/music/764efc75985f693af39b.jpg",
+          "externalUrl": "https://open.spotify.com/track/2pyjbGTpJCPjMYwCbdymiF"
+        },
+        {
+          "title": "STAY (with Justin Bieber)",
+          "artist": "The Kid LAROI, Justin Bieber",
+          "album": "STAY (with Justin Bieber)",
+          "time": "2:22",
+          "image": "assets/music/f77ef8df9fa8d681cf35.jpg",
+          "externalUrl": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+        },
+        {
+          "title": "Eastside (with Halsey & Khalid)",
+          "artist": "benny blanco, Halsey, Khalid",
+          "album": "FRIENDS KEEP SECRETS",
+          "time": "2:51",
+          "image": "assets/music/2ca7dd3d2c3b87e307a0.jpg",
+          "externalUrl": "https://open.spotify.com/track/7FGq80cy8juXBCD2nrqdWU"
+        },
+        {
+          "title": "I Like Me Better",
+          "artist": "LAUV",
+          "album": "I met you when I was 18. (the playlist)",
+          "time": "3:17",
+          "image": "assets/music/c1b121db264a13bd6fae.jpg",
+          "externalUrl": "https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ"
+        },
+        {
+          "title": "Wasted",
+          "artist": "Tiësto, Matthew Koma",
+          "album": "Frat Party",
+          "time": "3:10",
+          "image": "assets/music/1209d6ac227850cf4a64.jpg",
+          "externalUrl": "https://open.spotify.com/track/2Bgr1bbGFrtvvYNSmtPsju"
+        },
+        {
+          "title": "Feeling Good",
+          "artist": "Michael Bublé",
+          "album": "It's Time",
+          "time": "3:57",
+          "image": "assets/music/f6c7ddf54df2e26a10f1.jpg",
+          "externalUrl": "https://open.spotify.com/track/3I09LQbHS3NSU46Ly3tPpR"
+        },
+        {
+          "title": "Bassthoven",
+          "artist": "Kyle Exum, Shawn Wasabi",
+          "album": "Bassthoven",
+          "time": "2:08",
+          "image": "assets/music/8998f2427edf99b742ef.jpg",
+          "externalUrl": "https://open.spotify.com/track/00PYMeyU91Xt0j9UwmEpoX"
+        },
+        {
+          "title": "Girls Like You (feat. Cardi B) - Cardi B Version",
+          "artist": "Maroon 5, Cardi B",
+          "album": "Red Pill Blues (Deluxe)",
+          "time": "3:56",
+          "image": "assets/music/1cf34206128f5c340c22.jpg",
+          "externalUrl": "https://open.spotify.com/track/6V1bu6o1Yo5ZXnsCJU8Ovk"
+        },
+        {
+          "title": "Wish You Were Here",
+          "artist": "Vicetone, Willim, 黃霄雲",
+          "album": "Wish You Were Here",
+          "time": "2:45",
+          "image": "assets/music/959778786db4482d79ba.jpg",
+          "externalUrl": "https://open.spotify.com/track/3h6M4K3mBtb2ywoYhG7954"
+        },
+        {
+          "title": "Don't Leave - Throttle Remix",
+          "artist": "Snakehips, MØ, Throttle",
+          "album": "Don't Leave (Remixes)",
+          "time": "4:59",
+          "image": "assets/music/06b41adb83f7e8826fcc.jpg",
+          "externalUrl": "https://open.spotify.com/track/2kURE6wOW7HoWaTIOa2NDF"
+        },
+        {
+          "title": "Are You with Me",
+          "artist": "Lost Frequencies",
+          "album": "Are You with Me",
+          "time": "2:19",
+          "image": "assets/music/ffc37581b8dfa6f7ef36.jpg",
+          "externalUrl": "https://open.spotify.com/track/5kBHXns5U8pjLWGwtbhT8d"
+        },
+        {
+          "title": "Don't Go Changing",
+          "artist": "88rising, Ylona Garcia",
+          "album": "Don't Go Changing",
+          "time": "3:10",
+          "image": "assets/music/4541966205e976b261b2.jpg",
+          "externalUrl": "https://open.spotify.com/track/0dNN5wjTkbJnQkOnzh9WUH"
+        },
+        {
+          "title": "Pearl Magnolia",
+          "artist": "Alexander Lewis, Brasstracks, Armani White, BXRBER",
+          "album": "OMNI.",
+          "time": "4:02",
+          "image": "assets/music/e9abbf5f250c9b96df9d.jpg",
+          "externalUrl": "https://open.spotify.com/track/4tH7y3blkt051mLmvdXQbC"
+        },
+        {
+          "title": "She Will Be Loved",
+          "artist": "TYSHii, A.N.T",
+          "album": "She Will Be Loved",
+          "time": "5:08",
+          "image": "assets/music/867334b014491256b7ba.jpg",
+          "externalUrl": "https://open.spotify.com/track/4tmbqpBm01yh3u1ylFZ94W"
+        },
+        {
+          "title": "Heaven's Drive",
+          "artist": "(sic)boy, KM, vividboooy",
+          "album": "CHAOS TAPE",
+          "time": "3:34",
+          "image": "assets/music/d652ea0b0f6fc035c272.jpg",
+          "externalUrl": "https://open.spotify.com/track/4vUvtcTa96RiDyCqyG7wrf"
+        },
+        {
+          "title": "Getaway",
+          "artist": "Syn Cole",
+          "album": "Getaway",
+          "time": "3:14",
+          "image": "assets/music/22d4365328576e313983.jpg",
+          "externalUrl": "https://open.spotify.com/track/4IXAvmNBFinLJJAuqpBK7Y"
+        },
+        {
+          "title": "this is what falling in love feels like",
+          "artist": "JVKE",
+          "album": "this is what falling in love feels like",
+          "time": "2:00",
+          "image": "assets/music/a5aa11d571148215753f.jpg",
+          "externalUrl": "https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx"
+        },
+        {
+          "title": "edamame",
+          "artist": "bbno$, Rich Brian",
+          "album": "edamame",
+          "time": "2:14",
+          "image": "assets/music/ac7600630cbfdc257a18.jpg",
+          "externalUrl": "https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV"
+        },
+        {
+          "title": "Hits 2021 - Mashup",
+          "artist": "Trinix Remix, Trinix",
+          "album": "Hits 2021 (Mashup)",
+          "time": "2:43",
+          "image": "assets/music/43e1b0b24a8c5a64ab19.jpg",
+          "externalUrl": "https://open.spotify.com/track/1R8bpZGAVUxeygsKfHnInQ"
+        },
+        {
+          "title": "Magnolia",
+          "artist": "Playboi Carti",
+          "album": "Playboi Carti",
+          "time": "3:02",
+          "image": "assets/music/e91566c91fc7a37da1ff.jpg",
+          "externalUrl": "https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl"
+        },
+        {
+          "title": "Young Shahrukh",
+          "artist": "Tesher",
+          "album": "Young Shahrukh",
+          "time": "2:39",
+          "image": "assets/music/88b6013fdabb17c446cd.jpg",
+          "externalUrl": "https://open.spotify.com/track/42C9YmmOF7PkiHWpulxzcq"
+        },
+        {
+          "title": "Jalebi Baby (Tesher x Jason Derulo)",
+          "artist": "Tesher, Jason Derulo",
+          "album": "Jalebi Baby (Tesher x Jason Derulo)",
+          "time": "2:49",
+          "image": "assets/music/98f161009239bea7e965.jpg",
+          "externalUrl": "https://open.spotify.com/track/6FvSS3Goz7OC8oCC2eWqe8"
+        },
+        {
+          "title": "Icee Pop",
+          "artist": "Nic D",
+          "album": "Icee Pop",
+          "time": "2:28",
+          "image": "assets/music/6c3d9350db59dcce382f.jpg",
+          "externalUrl": "https://open.spotify.com/track/1zKOagmkCtXuGmCivG8HZE"
+        },
+        {
+          "title": "Substance",
+          "artist": "03 Greedo",
+          "album": "The Wolf of Grape Street",
+          "time": "3:40",
+          "image": "assets/music/b9bbca88cd199026ae7f.jpg",
+          "externalUrl": "https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol"
+        },
+        {
+          "title": "Holy Steppin",
+          "artist": "EmanuelDaProphet",
+          "album": "My Story And Transformation",
+          "time": "1:58",
+          "image": "assets/music/1083806da82d592112f0.jpg",
+          "externalUrl": "https://open.spotify.com/track/2VxHNuJBR2AzVLLIHfVvV3"
+        },
+        {
+          "title": "Am I Wrong",
+          "artist": "Nico & Vinz",
+          "album": "Black Star Elephant",
+          "time": "4:06",
+          "image": "assets/music/a1ffeed92eab8e1dd5f6.jpg",
+          "externalUrl": "https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ"
+        },
+        {
+          "title": "House of Memories",
+          "artist": "Panic! At The Disco",
+          "album": "Death of a Bachelor",
+          "time": "3:29",
+          "image": "assets/music/ab71ede3a96f2a86c6e1.jpg",
+          "externalUrl": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
+        },
+        {
+          "title": "TO THE MOON",
+          "artist": "JNR CHOI, Sam Tompkins",
+          "album": "TO THE MOON",
+          "time": "2:32",
+          "image": "assets/music/6cae9372ed9e49f82230.jpg",
+          "externalUrl": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
+        },
+        {
+          "title": "Jude's Song",
+          "artist": "Connor Price",
+          "album": "Jude's Song",
+          "time": "2:17",
+          "image": "assets/music/933dc6bef4639a47251d.jpg",
+          "externalUrl": "https://open.spotify.com/track/6CKU2H5ZhY27Toecau0JbO"
+        },
+        {
+          "title": "Hit a Button Morty",
+          "artist": "Swaggyg",
+          "album": "I.",
+          "time": "2:33",
+          "image": "assets/music/67284b7e0c53b8ab5af3.jpg",
+          "externalUrl": "https://open.spotify.com/track/72JUEdkygqEPI9TOXQBsow"
+        },
+        {
+          "title": "SNAP - Fargo Remix",
+          "artist": "Rosa Linn, Fargo",
+          "album": "SNAP PACK",
+          "time": "2:25",
+          "image": "assets/music/60ceef047b79bccad516.jpg",
+          "externalUrl": "https://open.spotify.com/track/1vsJZOJU5VtUL5VcQT4uUs"
+        },
+        {
+          "title": "Under The Influence (Body Language)",
+          "artist": "Chris Brown",
+          "album": "Under The Influence",
+          "time": "2:29",
+          "image": "assets/music/a80d205b624aa3bb8234.jpg",
+          "externalUrl": "https://open.spotify.com/track/71mHO4fFmS2Xu5XxZbcRND"
+        },
+        {
+          "title": "I'll Be There",
+          "artist": "Walk off the Earth",
+          "album": "HERE WE GO!",
+          "time": "2:49",
+          "image": "assets/music/4bb185666e29cdda8876.jpg",
+          "externalUrl": "https://open.spotify.com/track/3xj7CICKpCDxxMJ5ilRbTY"
+        },
+        {
+          "title": "Apollo",
+          "artist": "Hardwell, Amba Shepherd",
+          "album": "I Am Hardwell (Original Soundtrack)",
+          "time": "3:30",
+          "image": "assets/music/6454ee191d32108c9ad9.jpg",
+          "externalUrl": "https://open.spotify.com/track/7EdxI2Yro4AW2HH3akwqms"
+        },
+        {
+          "title": "Trust Issues",
+          "artist": "Emei",
+          "album": "Trust Issues",
+          "time": "2:21",
+          "image": "assets/music/69d6d47db424d60b0009.jpg",
+          "externalUrl": "https://open.spotify.com/track/2z5uCpJamxXgs7GKa6qzPi"
+        },
+        {
+          "title": "Late To The Party",
+          "artist": "Emei",
+          "album": "Late To The Party",
+          "time": "2:57",
+          "image": "assets/music/f59c7e7e80d36c8fbc84.jpg",
+          "externalUrl": "https://open.spotify.com/track/1CyCg39NYsG6skLJIdRMLe"
+        },
+        {
+          "title": "Ferris Bueller",
+          "artist": "Emei",
+          "album": "End of an Era",
+          "time": "1:57",
+          "image": "assets/music/7db0261a49073413c20b.jpg",
+          "externalUrl": "https://open.spotify.com/track/0g4xAZjaJeya09mBvjIsjR"
+        },
+        {
+          "title": "Love Me Now",
+          "artist": "FIXL, Rothchild, Se.A",
+          "album": "Love Me Now",
+          "time": "3:19",
+          "image": "assets/music/6dce5477260080544eae.jpg",
+          "externalUrl": "https://open.spotify.com/track/0N9FHlxNz04j37eTzTOXyK"
+        },
+        {
+          "title": "LA On A Saturday Night - Acoustic",
+          "artist": "Hearts & Colors",
+          "album": "LA On A Saturday Night (Acoustic)",
+          "time": "3:11",
+          "image": "assets/music/e2e89830d8965824226e.jpg",
+          "externalUrl": "https://open.spotify.com/track/4DUsBOTsiqZkiF4ePwUPWx"
+        },
+        {
+          "title": "WHATS POPPIN",
+          "artist": "Jack Harlow",
+          "album": "Sweet Action",
+          "time": "2:20",
+          "image": "assets/music/1f3e84205dbbb9b82e0d.jpg",
+          "externalUrl": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
+        },
+        {
+          "title": "One Punch Man but is it okay if it's lofi?",
+          "artist": "Kijugo",
+          "album": "One Punch Man but is it okay if it's lofi?",
+          "time": "2:53",
+          "image": "assets/music/b0255e973014bcf1f951.jpg",
+          "externalUrl": "https://open.spotify.com/track/3NF3wBWuRRIU6Wyzauuoar"
+        },
+        {
+          "title": "Ghost",
+          "artist": "Justin Bieber",
+          "album": "Justice",
+          "time": "2:33",
+          "image": "assets/music/4f276f7f170e493fa2b2.jpg",
+          "externalUrl": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
+        },
+        {
+          "title": "Snowman",
+          "artist": "Sia",
+          "album": "Everyday Is Christmas (Deluxe Edition)",
+          "time": "2:46",
+          "image": "assets/music/53ea9aaf76ec1e6591ea.jpg",
+          "externalUrl": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+        },
+        {
+          "title": "Miss You",
+          "artist": "Oliver Tree, Robin Schulz",
+          "album": "Miss You",
+          "time": "3:26",
+          "image": "assets/music/1f58599653be8425b613.jpg",
+          "externalUrl": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
+        },
+        {
+          "title": "Made You Look",
+          "artist": "Meghan Trainor",
+          "album": "Takin' It Back",
+          "time": "2:14",
+          "image": "assets/music/a7bb86f28eb6f8ebaabf.jpg",
+          "externalUrl": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+        },
+        {
+          "title": "Suzume (feat. Toaka)",
+          "artist": "RADWIMPS, Toaka",
+          "album": "Suzume (feat. Toaka)",
+          "time": "3:56",
+          "image": "assets/music/e3dc5ad1962379fe137e.jpg",
+          "externalUrl": "https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5"
+        },
+        {
+          "title": "Sure Thing - Sped Up",
+          "artist": "Miguel",
+          "album": "Sure Thing (Sped Up)",
+          "time": "2:30",
+          "image": "assets/music/9c1332e56e875f93e2fc.jpg",
+          "externalUrl": "https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj"
+        },
+        {
+          "title": "King Without A Throne - Bout Remix",
+          "artist": "HEART FX, Bout",
+          "album": "King Without A Throne (Bout Remix)",
+          "time": "3:15",
+          "image": "assets/music/79875b74d3e6a187e49a.jpg",
+          "externalUrl": "https://open.spotify.com/track/325KyMzTe1OgXYwupRAKfC"
+        },
+        {
+          "title": "Nonstop",
+          "artist": "Drake",
+          "album": "Scorpion",
+          "time": "3:59",
+          "image": "assets/music/139ef06047b2e782d552.jpg",
+          "externalUrl": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct"
+        },
+        {
+          "title": "Drop",
+          "artist": "Connor Price, Zensery",
+          "album": "Drop",
+          "time": "2:09",
+          "image": "assets/music/af297cc4e0def6fd52dc.jpg",
+          "externalUrl": "https://open.spotify.com/track/5iscY6uoraOqqKurX7G8S9"
+        },
+        {
+          "title": "Spinnin",
+          "artist": "Connor Price, Bens",
+          "album": "Spin The Globe",
+          "time": "1:51",
+          "image": "assets/music/3d27d2bf177a8fec210d.jpg",
+          "externalUrl": "https://open.spotify.com/track/4r0kug4vaNx3d8qyDLhQes"
+        },
+        {
+          "title": "Violet",
+          "artist": "Connor Price, Killa",
+          "album": "Spin The Globe",
+          "time": "2:03",
+          "image": "assets/music/3d27d2bf177a8fec210d.jpg",
+          "externalUrl": "https://open.spotify.com/track/7IezwtVIJIPC36LpKMR9d7"
+        },
+        {
+          "title": "Stay for Me",
+          "artist": "OSTON, Michael Minelli",
+          "album": "Stay for Me",
+          "time": "3:05",
+          "image": "assets/music/07b0612fa910497dac21.jpg",
+          "externalUrl": "https://open.spotify.com/track/1pY2h98aGYyQsgK3jE1cSa"
+        },
+        {
+          "title": "Good Life (with G-Eazy & Kehlani)",
+          "artist": "G-Eazy, Kehlani",
+          "album": "Good Life (with G-Eazy & Kehlani)",
+          "time": "3:46",
+          "image": "assets/music/79c7c343ff72812832f0.jpg",
+          "externalUrl": "https://open.spotify.com/track/1Eck97uRMlprKOOJN9oO1E"
+        },
+        {
+          "title": "Mary On A Cross (TikTok Version)",
+          "artist": "Divine Deluxe Hitz",
+          "album": "Mary On A Cross (TikTok Version)",
+          "time": "4:03",
+          "image": "assets/music/6162021b5b35289adf4f.jpg",
+          "externalUrl": "https://open.spotify.com/track/1SIAdCt9tdJBgPsLgT9rrN"
+        },
+        {
+          "title": "Run This Town",
+          "artist": "JAŸ-Z, Rihanna, Kanye West",
+          "album": "The Blueprint 3",
+          "time": "4:28",
+          "image": "assets/music/748b886310671bf5f9c6.jpg",
+          "externalUrl": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG"
+        },
+        {
+          "title": "Gone",
+          "artist": "Hoang, Kianna",
+          "album": "Gone",
+          "time": "2:53",
+          "image": "assets/music/a3036888affbbae94d98.jpg",
+          "externalUrl": "https://open.spotify.com/track/7k5uBcPwecGOf90m2vpxJF"
+        },
+        {
+          "title": "AM:PM",
+          "artist": "NOTD, Maia Wright",
+          "album": "AM:PM",
+          "time": "3:03",
+          "image": "assets/music/b19de946880c7ba37325.jpg",
+          "externalUrl": "https://open.spotify.com/track/7DwVS1naLT9jP0PE78jg4P"
+        },
+        {
+          "title": "golden hour - minlee remix",
+          "artist": "JVKE, minlee",
+          "album": "golden hour (minlee Remix)",
+          "time": "2:24",
+          "image": "assets/music/84643c0f94f76e549de1.jpg",
+          "externalUrl": "https://open.spotify.com/track/7kO7gxUXu38fr58aQ5jkC5"
+        },
+        {
+          "title": "Wop It",
+          "artist": "Lil Vada",
+          "album": "Wop It",
+          "time": "1:53",
+          "image": "assets/music/34067b75e178f46605dc.jpg",
+          "externalUrl": "https://open.spotify.com/track/6qiN1G9Q5CLzuWJUKnkLxo"
+        },
+        {
+          "title": "Back To U",
+          "artist": "SLANDER, William Black",
+          "album": "Back To U",
+          "time": "3:34",
+          "image": "assets/music/c9d58a312bb0d970136a.jpg",
+          "externalUrl": "https://open.spotify.com/track/19m23w2ANVhtB7rApM6pbN"
+        },
+        {
+          "title": "Take Off Everything, Pt. 2",
+          "artist": "Lønelo, DWELLS",
+          "album": "Take Off Everything, Pt. 2",
+          "time": "3:03",
+          "image": "assets/music/fee097841fbc1dfc99fe.jpg",
+          "externalUrl": "https://open.spotify.com/track/31NMPKiV62GtlNdvXkMNzV"
+        },
+        {
+          "title": "TGIF",
+          "artist": "XG",
+          "album": "TGIF",
+          "time": "2:51",
+          "image": "assets/music/1f15efce0f6b6c0dda19.jpg",
+          "externalUrl": "https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P"
+        },
+        {
+          "title": "Black Heart",
+          "artist": "Dark Heart",
+          "album": "Black Heart",
+          "time": "3:22",
+          "image": "assets/music/d9093964f687a38a0a9c.jpg",
+          "externalUrl": "https://open.spotify.com/track/4dAO5xV6Sydz9MKc8DOMAK"
+        },
+        {
+          "title": "Strangers",
+          "artist": "Kenya Grace",
+          "album": "Strangers",
+          "time": "2:53",
+          "image": "assets/music/69182207f9b7e45b2fbb.jpg",
+          "externalUrl": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+        },
+        {
+          "title": "Queencard",
+          "artist": "i-dle",
+          "album": "I feel",
+          "time": "2:41",
+          "image": "assets/music/ea7ff1429053d1fd4886.jpg",
+          "externalUrl": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
+        },
+        {
+          "title": "Shifted",
+          "artist": "Jolynn J Chin",
+          "album": "Shifted",
+          "time": "3:01",
+          "image": "assets/music/7d9f3add1a1e388086c9.jpg",
+          "externalUrl": "https://open.spotify.com/track/0EZrRc7VqVbA0A9ZhHphYU"
+        },
+        {
+          "title": "Dance No More (with Kaleena Zanders)",
+          "artist": "Sunday Scaries, Kaleena Zanders",
+          "album": "Dance No More (with Kaleena Zanders)",
+          "time": "3:23",
+          "image": "assets/music/06dfaf2bc0a3b496eb9a.jpg",
+          "externalUrl": "https://open.spotify.com/track/5IkqbeN8L6DC9kRA7Hp64t"
+        },
+        {
+          "title": "Rockabye (feat. Sean Paul & Anne-Marie)",
+          "artist": "Clean Bandit, Anne-Marie, Sean Paul",
+          "album": "Rockabye (feat. Sean Paul & Anne-Marie)",
+          "time": "4:11",
+          "image": "assets/music/83cac2d322779a4e2d3c.jpg",
+          "externalUrl": "https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW"
+        },
+        {
+          "title": "Look Mom",
+          "artist": "John Michael Howell, Ryan Mack",
+          "album": "Look Mom",
+          "time": "2:30",
+          "image": "assets/music/6522ebe33df4f8cd2c31.jpg",
+          "externalUrl": "https://open.spotify.com/track/1ydXPq8Lja4OS9UlMT5a28"
+        },
+        {
+          "title": "Some Say",
+          "artist": "Nea",
+          "album": "Some Say",
+          "time": "2:56",
+          "image": "assets/music/92d4a5891bd75e16538e.jpg",
+          "externalUrl": "https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h"
+        },
+        {
+          "title": "Out in the City",
+          "artist": "RYYZN",
+          "album": "Out in the City",
+          "time": "2:19",
+          "image": "assets/music/397d7a1fe1e03a1ab073.jpg",
+          "externalUrl": "https://open.spotify.com/track/0QI8IZQRhESjZQ0pkCGhzy"
+        },
+        {
+          "title": "Prom Queen",
+          "artist": "Beach Bunny",
+          "album": "Prom Queen",
+          "time": "2:17",
+          "image": "assets/music/ec81183ccc4bcb94df24.jpg",
+          "externalUrl": "https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY"
+        },
+        {
+          "title": "Play With Me",
+          "artist": "Pagaehun, KKANBYEONGZ",
+          "album": "Play With Me",
+          "time": "2:50",
+          "image": "assets/music/a250b6b432a064aa33a5.jpg",
+          "externalUrl": "https://open.spotify.com/track/0Q7K7Eel3R3xZDn1otHPif"
+        },
+        {
+          "title": "E-Girl Bounce",
+          "artist": "Shiki-TMNS, PiNKII",
+          "album": "E-Girl Bounce",
+          "time": "2:54",
+          "image": "assets/music/650f665c68d903c365aa.jpg",
+          "externalUrl": "https://open.spotify.com/track/1qCs741rUucGypLVCFRxgg"
+        },
+        {
+          "title": "Dear Maria, Count Me In",
+          "artist": "All Time Low",
+          "album": "So Wrong, It's Right",
+          "time": "3:03",
+          "image": "assets/music/ebd8942bf5c4412bcfee.jpg",
+          "externalUrl": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe"
+        },
+        {
+          "title": "Sad Sometimes",
+          "artist": "D-Raze",
+          "album": "Sad Sometimes",
+          "time": "3:22",
+          "image": "assets/music/f21332a6273bfcc7fb93.jpg",
+          "externalUrl": "https://open.spotify.com/track/3PONWnA0gHjK4mqsUxTgzX"
+        },
+        {
+          "title": "Big Dawgs",
+          "artist": "Hanumankind, Kalmi",
+          "album": "Big Dawgs",
+          "time": "3:11",
+          "image": "assets/music/84e507418e2d959312a9.jpg",
+          "externalUrl": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+        },
+        {
+          "title": "What Makes You Beautiful",
+          "artist": "One Direction",
+          "album": "Up All Night",
+          "time": "3:20",
+          "image": "assets/music/1cdf0e56b6111fefc7ca.jpg",
+          "externalUrl": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
+        },
+        {
+          "title": "Tarantino",
+          "artist": "Grisha",
+          "album": "Tarantino",
+          "time": "2:29",
+          "image": "assets/music/3589ccf1d85395a80ecd.jpg",
+          "externalUrl": "https://open.spotify.com/track/2a59hezlL9v7uoPyaehZvb"
+        },
+        {
+          "title": "Rattlesnake",
+          "artist": "Grisha",
+          "album": "Rattlesnake",
+          "time": "3:13",
+          "image": "assets/music/fef26e99357ed191a425.jpg",
+          "externalUrl": "https://open.spotify.com/track/4GJELQkXpGtA6A3RsWGVhp"
+        },
+        {
+          "title": "Zone",
+          "artist": "Grisha",
+          "album": "Zone",
+          "time": "2:45",
+          "image": "assets/music/352acb28eed492173aea.jpg",
+          "externalUrl": "https://open.spotify.com/track/4LSNnMQR8oziqKLb6wVErq"
+        },
+        {
+          "title": "Falling For You",
+          "artist": "Grisha",
+          "album": "Falling For You",
+          "time": "2:38",
+          "image": "assets/music/bc4fdfd9d1c0b9f38d87.jpg",
+          "externalUrl": "https://open.spotify.com/track/3OCyQ3qHbMimMJDsq45WCH"
+        },
+        {
+          "title": "adonis",
+          "artist": "STIM",
+          "album": "adonis",
+          "time": "2:33",
+          "image": "assets/music/e0900084cc3f066de71b.jpg",
+          "externalUrl": "https://open.spotify.com/track/7KaUMSDXMygUic8vpaC74s"
+        },
+        {
+          "title": "Your Love Is My Drug (8 Bit Slowed)",
+          "artist": "just valery",
+          "album": "Your Love Is My Drug (8 Bit Slowed)",
+          "time": "1:53",
+          "image": "assets/music/c5cc9121dff12f8323fc.jpg",
+          "externalUrl": "https://open.spotify.com/track/1EoThnDm6kQfB2idIfR30n"
+        },
+        {
+          "title": "Honeypie",
+          "artist": "JAWNY",
+          "album": "For Abby",
+          "time": "2:16",
+          "image": "assets/music/8ef6c39170ed12717893.jpg",
+          "externalUrl": "https://open.spotify.com/track/1bt443XPmX5ZG5DjhMJ8Rh"
+        },
+        {
+          "title": "Main dish",
+          "artist": "ICHIGO",
+          "album": "Main dish",
+          "time": "2:55",
+          "image": "assets/music/d0f999bbff6f6416f1c1.jpg",
+          "externalUrl": "https://open.spotify.com/track/4u0MqwaD7K3ZndmRcdwmfA"
+        },
+        {
+          "title": "Sky High",
+          "artist": "Elektronomia",
+          "album": "Sky High",
+          "time": "3:56",
+          "image": "assets/music/4609c1b1fc5db31a79c8.jpg",
+          "externalUrl": "https://open.spotify.com/track/61k7xAKMsuvTf2j2YnieSi"
+        },
+        {
+          "title": "オトノケ - Otonoke",
+          "artist": "Creepy Nuts",
+          "album": "オトノケ - Otonoke",
+          "time": "3:06",
+          "image": "assets/music/b78f14197b8f1a54378e.jpg",
+          "externalUrl": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
+        },
+        {
+          "title": "WHATCHU KNO ABOUT ME (with Sexyy Red)",
+          "artist": "GloRilla, Sexyy Red",
+          "album": "WHATCHU KNO ABOUT ME (with Sexyy Red)",
+          "time": "2:29",
+          "image": "assets/music/8bfe6fde6ddb91ed3cb2.jpg",
+          "externalUrl": "https://open.spotify.com/track/4VI2Y5xg4gYynQqNQNQbTN"
+        },
+        {
+          "title": "UP - KARINA Solo",
+          "artist": "aespa",
+          "album": "SYNK : PARALLEL LINE - Special Digital Single",
+          "time": "2:47",
+          "image": "assets/music/9a284e1bcf4236cc3067.jpg",
+          "externalUrl": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
+        },
+        {
+          "title": "Mrs. Worldwide",
+          "artist": "Yung Gravy",
+          "album": "Marvelous",
+          "time": "2:55",
+          "image": "assets/music/ad20af1a5590f18bf94f.jpg",
+          "externalUrl": "https://open.spotify.com/track/2fSWU87ZkCZMwuqN4NsS0y"
+        },
+        {
+          "title": "MILLION DOLLAR BABY",
+          "artist": "Tommy Richman",
+          "album": "MILLION DOLLAR BABY",
+          "time": "2:35",
+          "image": "assets/music/808ffc8ee1393066d208.jpg",
+          "externalUrl": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
+        },
+        {
+          "title": "Not snow,but U",
+          "artist": "七元",
+          "album": "Not snow,but U",
+          "time": "3:49",
+          "image": "assets/music/9eab92fdad0747c0a003.jpg",
+          "externalUrl": "https://open.spotify.com/track/7ctnnGF43JNYGgmMawaoGn"
+        },
+        {
+          "title": "Going Bad (feat. Drake)",
+          "artist": "Meek Mill, Drake",
+          "album": "Championships",
+          "time": "3:01",
+          "image": "assets/music/541a33d02098960b97e2.jpg",
+          "externalUrl": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
+        },
+        {
+          "title": "Timeless (feat Playboi Carti)",
+          "artist": "The Weeknd, Playboi Carti",
+          "album": "Hurry Up Tomorrow",
+          "time": "4:16",
+          "image": "assets/music/fdb9b117d7519598fa7b.jpg",
+          "externalUrl": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
+        },
+        {
+          "title": "Sexy Bitch (feat. Akon)",
+          "artist": "David Guetta, Akon",
+          "album": "One Love (Deluxe)",
+          "time": "3:16",
+          "image": "assets/music/7b212c00734be7a17c67.jpg",
+          "externalUrl": "https://open.spotify.com/track/0uXO2GrNiIb1xHT9LUdxZE"
+        },
+        {
+          "title": "八方來財(Stacks from All Sides)",
+          "artist": "攬佬SKAI ISYOURGOD",
+          "album": "八方來財(Stacks from All Sides)",
+          "time": "2:53",
+          "image": "assets/music/baf5e1f0602cbe1c4883.jpg",
+          "externalUrl": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"
+        },
+        {
+          "title": "像晴天像雨天（电视剧《难哄》心动曲）",
+          "artist": "Silence Wang",
+          "album": "电视剧《难哄》影视原声带·只喜欢你Love Moments",
+          "time": "3:57",
+          "image": "assets/music/d5605d37f8a2091eb636.jpg",
+          "externalUrl": "https://open.spotify.com/track/298LjjcBvuQCAlwUWb9dKb"
+        },
+        {
+          "title": "Daydream",
+          "artist": "Gunter Kallmann Choir",
+          "album": "The Fantastic Sound Of",
+          "time": "3:20",
+          "image": "assets/music/a323ab11d66221cdf6ac.jpg",
+          "externalUrl": "https://open.spotify.com/track/0F6pFZDlQSiQBWsjQZFbTH"
+        },
+        {
+          "title": "supernatural (with Troye Sivan) - remix",
+          "artist": "Ariana Grande, Troye Sivan",
+          "album": "eternal sunshine (slightly deluxe)",
+          "time": "2:43",
+          "image": "assets/music/574f3a2972f3fe604940.jpg",
+          "externalUrl": "https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp"
+        },
+        {
+          "title": "Pretty Race Girl (feat. S3RL)",
+          "artist": "CHYL, S3RL",
+          "album": "Pretty Race Girl (feat. S3RL)",
+          "time": "3:30",
+          "image": "assets/music/3257b03531683593debb.jpg",
+          "externalUrl": "https://open.spotify.com/track/4QZGrkL8c0RjAvlQwXtYJf"
+        },
+        {
+          "title": "Homicide (feat. Eminem)",
+          "artist": "Logic, Eminem",
+          "album": "Confessions of a Dangerous Mind",
+          "time": "4:05",
+          "image": "assets/music/3dc26dd0c356ce594348.jpg",
+          "externalUrl": "https://open.spotify.com/track/7M2tXmeS15NAzEn7ABFeBg"
+        },
+        {
+          "title": "Me and the Devil",
+          "artist": "Soap&Skin",
+          "album": "Sugarbread",
+          "time": "3:05",
+          "image": "assets/music/74c0265d8e8b9a6f900c.jpg",
+          "externalUrl": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
+        },
+        {
+          "title": "OK",
+          "artist": "Joey Valence & Brae",
+          "album": "NO HANDS",
+          "time": "2:23",
+          "image": "assets/music/b28ea2377da89b0a58c5.jpg",
+          "externalUrl": "https://open.spotify.com/track/442lxJfyUbsOWAYFBxNDdL"
+        },
+        {
+          "title": "POSER",
+          "artist": "PARTYOF2, Jadagrace, SWIM",
+          "album": "we owe you an explanation",
+          "time": "2:23",
+          "image": "assets/music/048096863d8ba4126b44.jpg",
+          "externalUrl": "https://open.spotify.com/track/13nMWX9yA13HoDvnQgmgSn"
+        },
+        {
+          "title": "LUNA BALA - Slowed",
+          "artist": "Yb Wasg'ood, Ariis, MC PR",
+          "album": "LUNA BALA",
+          "time": "2:04",
+          "image": "assets/music/574e675afb0b597df59b.jpg",
+          "externalUrl": "https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj"
+        },
+        {
+          "title": "Soda Pop",
+          "artist": "Saja Boys, Andrew Choi, Neckwav, Danny Chung, KEVIN WOO, samUIL Lee, KPop Demon Hunters Cast",
+          "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+          "time": "2:31",
+          "image": "assets/music/aba2aead0fd78756caec.jpg",
+          "externalUrl": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
+        },
+        {
+          "title": "Golden",
+          "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
+          "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+          "time": "3:15",
+          "image": "assets/music/aba2aead0fd78756caec.jpg",
+          "externalUrl": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
+        },
+        {
+          "title": "Good Luck, Babe!",
+          "artist": "Chappell Roan",
+          "album": "Good Luck, Babe!",
+          "time": "3:38",
+          "image": "assets/music/1da20e52f4f0763a91f7.jpg",
+          "externalUrl": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+        },
+        {
+          "title": "Good Enough",
+          "artist": "ZEVY, Abby Carey",
+          "album": "Good Enough",
+          "time": "3:07",
+          "image": "assets/music/4a8fb68da4ed72b9d171.jpg",
+          "externalUrl": "https://open.spotify.com/track/4XnCLYGnyAxLob2rMXjw0w"
+        },
+        {
+          "title": "Rose Bath",
+          "artist": "Kodoku",
+          "album": "Rose Bath",
+          "time": "2:34",
+          "image": "assets/music/f8bd25660d3708d3cdb2.jpg",
+          "externalUrl": "https://open.spotify.com/track/7CLet8kjtTxtubGVQBXsKq"
+        },
+        {
+          "title": "LET THE NEW BEGIN",
+          "artist": "Kodoku",
+          "album": "LET THE NEW BEGIN",
+          "time": "2:26",
+          "image": "assets/music/15843ee256a1191623c7.jpg",
+          "externalUrl": "https://open.spotify.com/track/2OkRuz1CKtE0YCBHQdoPAq"
+        },
+        {
+          "title": "did i tell u that i miss u",
+          "artist": "adore",
+          "album": "did i tell u that i miss u",
+          "time": "1:56",
+          "image": "assets/music/c01d31ce8884e39efe0d.jpg",
+          "externalUrl": "https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4"
+        },
+        {
+          "title": "Close To The Sun",
+          "artist": "TheFatRat, Anjulie",
+          "album": "Unity - 10th Anniversary Compilation",
+          "time": "3:12",
+          "image": "assets/music/7a6e5aa514d368d99059.jpg",
+          "externalUrl": "https://open.spotify.com/track/06POVSGbIFuQsc721gLk6Q"
+        },
+        {
+          "title": "Walk in the park",
+          "artist": "Feng",
+          "album": "Walk in the park",
+          "time": "1:26",
+          "image": "assets/music/b9527c448c9706aedc8d.jpg",
+          "externalUrl": "https://open.spotify.com/track/2vk4jSuHrVuvmFjrlz5yJ5"
+        },
+        {
+          "title": "Golden (Punk Rework)",
+          "artist": "Shiranai.exe",
+          "album": "Golden (Punk Rework)",
+          "time": "3:03",
+          "image": "assets/music/4d2b5b9601413663145c.jpg",
+          "externalUrl": "https://open.spotify.com/track/0fD0ZyI2be2xENlvzctdJz"
+        },
+        {
+          "title": "POWER",
+          "artist": "Kanye West",
+          "album": "My Beautiful Dark Twisted Fantasy",
+          "time": "4:52",
+          "image": "assets/music/abdac2bd72d19230588e.jpg",
+          "externalUrl": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
+        },
+        {
+          "title": "S&M x I Get The Bag",
+          "artist": "Bankai",
+          "album": "S&M x I Get The Bag",
+          "time": "1:31",
+          "image": "assets/music/558e3cd620605f64f723.jpg",
+          "externalUrl": "https://open.spotify.com/track/0DhKWf1LHyDucceEJh6Ns5"
+        },
+        {
+          "title": "NO BATIDÃO",
+          "artist": "ZXKAI, slxughter",
+          "album": "NO BATIDÃO",
+          "time": "1:30",
+          "image": "assets/music/4b96c251fdce9216d613.jpg",
+          "externalUrl": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
+        },
+        {
+          "title": "Victory Lap",
+          "artist": "Fred again.., Skepta, PlaqueBoyMax",
+          "album": "Victory Lap",
+          "time": "2:46",
+          "image": "assets/music/d0e9b8c81e132ea0969d.jpg",
+          "externalUrl": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
+        },
+        {
+          "title": "You Won't Catch Me Crying - Experimental Version",
+          "artist": "KEVNN C.",
+          "album": "You Won't Catch Me Crying (Experimental Version)",
+          "time": "2:08",
+          "image": "assets/music/d5c686dcf9f3bc6b4a33.jpg",
+          "externalUrl": "https://open.spotify.com/track/24HylFbJ0E5aSjD1by4SxF"
+        },
+        {
+          "title": "What You Saying",
+          "artist": "Lil Uzi Vert",
+          "album": "What You Saying",
+          "time": "2:12",
+          "image": "assets/music/5465d1e9b179255c96cb.jpg",
+          "externalUrl": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+        },
+        {
+          "title": "Juliet - Single Edit",
+          "artist": "LMNT",
+          "album": "Juliet",
+          "time": "3:40",
+          "image": "assets/music/932a673506ad1fa97439.jpg",
+          "externalUrl": "https://open.spotify.com/track/4cIedAXi7s8BYl4eRjC3Bc"
+        },
+        {
+          "title": "Stereo Love",
+          "artist": "HUTS, Brenton Mattheus",
+          "album": "Stereo Love",
+          "time": "2:26",
+          "image": "assets/music/c50654cc03bdb8d0a5d3.jpg",
+          "externalUrl": "https://open.spotify.com/track/4Ef3ODp0REOFXMgDL4S5fM"
+        },
+        {
+          "title": "The Nights",
+          "artist": "Avicii",
+          "album": "The Days / Nights",
+          "time": "2:57",
+          "image": "assets/music/74658a306f9f7015daac.jpg",
+          "externalUrl": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc"
+        },
+        {
+          "title": "Beauty And A Beat x Stereo Love",
+          "artist": "Mash Mellow",
+          "album": "Beauty And A Beat x Stereo Love",
+          "time": "2:22",
+          "image": "assets/music/de50ee7cdf816268a6ea.jpg",
+          "externalUrl": "https://open.spotify.com/track/1tkgku7J5ZSG8Al1ckbjme"
+        },
+        {
+          "title": "Miracle - Nightcore Edit",
+          "artist": "Cascada",
+          "album": "Nightcore",
+          "time": "2:55",
+          "image": "assets/music/853c699099c81de87df8.jpg",
+          "externalUrl": "https://open.spotify.com/track/7FRQ3gedF4i9xv4eHCxTQI"
+        },
+        {
+          "title": "Took Her To The O - Audiomack Fine Tuned Version",
+          "artist": "King Von",
+          "album": "Took Her To The O (Audiomack Fine Tuned Version)",
+          "time": "3:44",
+          "image": "assets/music/ad86e2d592d9b954b79f.jpg",
+          "externalUrl": "https://open.spotify.com/track/3Yvejw28HdH57TskQPZRnw"
+        }
+      ]
+    }
+  ]
+}

@@ -15,10 +15,10 @@ This document records the interaction model used as the reference for the local 
 ## Applications
 
 - Notes: grouped notes, search, selection, URL hash, list/gallery display, title/manual sorting, date-group visibility, create, pin/unpin, delete, and keyboard new-note shortcut.
-- Messages: conversation search and selection, new-conversation focus, local message composition and delivery state.
+- Messages: seven clearly labeled imagined conversations, synchronized thread previews, conversation search/selection, new-conversation focus, and local message composition/delivery state.
 - Finder: sidebar locations, selectable files, search, list/icon views, Trash location.
 - Photos: Library/Favorites/albums navigation, Years/Months/All Photos scopes, gallery filters, and photo viewer.
-- Music: Home, Browse, Artists, Albums, Songs, playlists, track selection, play/pause, previous/next, scrubber, favorite, shuffle, repeat, mute, and queue feedback. Playback is a silent local simulation to avoid remote media dependencies.
+- Music: rotating editorial banners, horizontal playlist/song shelves, Home, Browse, Artists, Albums, Songs, playlist detail, track selection, play/pause, previous/next, scrubber, favorite, shuffle, repeat, mute, and queue feedback. Spotify data is generated only by a private, local build-time sync and published as an explicitly reviewed static snapshot; the public interface has no Spotify authorization or API access. Playback is a silent local simulation to avoid remote media dependencies.
 - Calendar: month navigation and day selection.
 - iTerm: local command prompt supporting `help`, `about`, `notes`, `music`, `date`, `whoami`, and `clear`.
 - System Settings: category navigation, appearance, clock visibility, connectivity toggles, wallpaper information, and Focus state.
